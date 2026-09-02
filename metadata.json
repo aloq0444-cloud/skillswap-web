@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap — Взаимное обучение",
+  "description": "Платформа взаимного обучения и равноправного обмена знаниями с каталогом навыков, заявками на обмен, чатами со студентами, рейтингом и быстрым потоковым ИИ-ассистентом занятий.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
